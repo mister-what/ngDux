@@ -1,11 +1,11 @@
 # General
-
   
 * [ng-dux](#module_ng-dux)
     * [.shallowCompare](#module_ng-dux.shallowCompare)
     * [.ngDux](#module_ng-dux.ngDux) : <code>string</code>
 
 <a name="module_ng-dux.shallowCompare"></a>
+
 
 ## ng-dux.shallowCompare
 shallow compare two objects

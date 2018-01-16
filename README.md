@@ -11,3 +11,5 @@ The existing _ng-redux_ implementation allows only for creating a Redux store in
 
 To make selectors and mappings reuseable between AngularJS and React components, we tried to resemble the react-redux `connect()` API as close as possible. If you ever worked with **react-redux**, you will probably feel familiar with using  **ngDux**.
 
+
+
